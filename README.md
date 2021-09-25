@@ -7,4 +7,4 @@ I'm a Jr. Software Developer and interested in Mobile Application Development.
 - 📫 How to reach me: bengianil34@gmail.com
 
 Languages and Tools:
-C/Cpp Java Kotlin Swift Python
+C/Cpp, Java, Kotlin, Swift, Python
