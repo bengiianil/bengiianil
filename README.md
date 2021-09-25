@@ -1,6 +1,6 @@
 ### Hi, I'm Bengi! 👋
 
-I'm a Jr. Software Engineer and interested in Mobile Application Development.
+I'm a Jr. Software Developer and interested in Mobile Application Development.
 
 - 🔭 I’m currently working on Android Apps and Java projects.
 - 🌱 I’m currently learning Swift and Python.
